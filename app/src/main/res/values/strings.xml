@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">All Recipes</string>
+    <string name="name">Name: </string>
+    <string name="description">Description: </string>
+    <string name="details">...view more</string>
+
+    <string name="ing">Ingredients: </string>
+    <string name="ins">Instructions: </string>
+    <string name="rat">Rating: </string>
+</resources>

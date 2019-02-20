@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "828464917650",
+    "firebase_url": "https://thetechybartender.firebaseio.com",
+    "project_id": "thetechybartender",
+    "storage_bucket": "thetechybartender.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828464917650:android:0efdd0a61d566bed",
+        "android_client_info": {
+          "package_name": "com.example.mixes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828464917650-23a85iopn2ci6ib17dibvfctu540cqms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mixes",
+            "certificate_hash": "a3acb90e5ba9c895d3c34e675bbec68fa334ae3e"
+          }
+        },
+        {
+          "client_id": "828464917650-dn0r5l72kfgfadbffc2qaht9r0m5h81d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaQ39ytHUvgzgYrZslunMcDJaNlZdO7Xs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828464917650-dn0r5l72kfgfadbffc2qaht9r0m5h81d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
